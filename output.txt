@@ -1,1 +1,5 @@
-Sum of numbers: 10
+Odd number: 1
+Even number: 2
+Odd number: 3
+Even number: 4
+Odd number: 5
