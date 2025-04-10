@@ -1,3 +1,9 @@
-Current number: 1
-Current number: 2
-Loop exited.
+0
+1
+2
+3
+4
+6
+7
+8
+9
